@@ -1,6 +1,9 @@
 _repo: Fifteen-Institute-Lessons-in-Language-Arithmetic-and-US-History_52429
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 15 Institute Lessons in Language, Arithmetic, and U.S. History
+covers:
+- cover_type: archival
+  image_path: 52429-h/images/cover.jpg
 creator:
   author:
     agent_name: Sanders, William Francis Lewis
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46851'
     url: http://www.gutenberg.org/2009/agents/46851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52429#Fifteen-Institute-Lessons-in-Language-Arithmetic-and-US-History
 gutenberg_issued: '2016-06-28'
 gutenberg_type: Text
 identifiers:
