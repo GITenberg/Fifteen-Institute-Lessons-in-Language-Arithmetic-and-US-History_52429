@@ -1,0 +1,28 @@
+_repo: Fifteen-Institute-Lessons-in-Language-Arithmetic-and-US-History_52429
+_version: 0.0.1
+alternative_title: 15 Institute Lessons in Language, Arithmetic, and U.S. History
+creator:
+  author:
+    agent_name: Sanders, William Francis Lewis
+    alias: Sanders, W. F. L.
+    birthdate: 1849
+    gutenberg_agent_id: '46851'
+    url: http://www.gutenberg.org/2009/agents/46851
+description: ''
+gutenberg_issued: '2016-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52429'
+  lccn: '23000873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Outlines, syllabi, etc.'
+- !lcsh 'Arithmetic -- Outlines, syllabi, etc.'
+- !lcsh 'Language arts -- Problems, exercises, etc.'
+- !lcc 'LT'
+- GITenberg
+title: Fifteen Institute Lessons in Language, Arithmetic, and U.S. History
+url: http://www.gutenberg.org/ebooks/52429
